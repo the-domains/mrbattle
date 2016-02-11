@@ -1,0 +1,28 @@
+name: Sean Hamilton - Portrait and Commercial Photographer
+favicon: null
+layout_spectrum: 0.24232548754662275
+typography_spectrum: 0.18477341928519309
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3455996932461858
+  lightness: 0.13296024268493056
+  saturation: 0.4885888476856053
+  rhythmicContrast: 0.9768245816230774
+purpose: []
